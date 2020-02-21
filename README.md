@@ -2,6 +2,8 @@
 
 ![](https://github.com/SteveJustin1963/TE-2-20-LED-DICE/blob/master/cct.png)
 
+https://easyeda.com/editor#id=42030435fd1a415897ec1d08381c44f0|f208b34686a84562a141e2e0d3bdb559
+
 Each project in this series needs just a few extra components in addition to the previous project to create a completely different circuit and add a new dimension to the possibilities of electronics. This is one such circuit.  Being electronically minded, have you ever wished you could throw away the old dice used in snakes and ladders and replace it with an electronic dice? Well now you can. With this LED DICE the full realism of waiting for a dice to stop rolling or a spinner to stop spinning is re-created with an electronic circuit. It works like this: after placing your finger on the TOUCH PLATE the LEDs begin to flash rapidly. After a second or two they reduce speed to a running sequence. Then they slow down to a walk and finally a crawl. At this stage you are hoping they will jump one more step to make a six. You're in luck! It jumps to a six! But wait, the capacitor may not be fully discharged. You will have to wait a few more seconds to see if the 555 oscillator will clock the CD 4017 one more step. It does. You lose. You get a single solitary ONE for your turn. That's the luck of the game. I've never been lucky at cards, dice or poker but I'm sure this game will bring you luck. Even if you don't win at Ludo or Monopoly you will generate a lot of interest from your family and friends - especially since there is no way of "loading" the circuit; it gives a completely random unbiased result.  
 
 ![](https://github.com/SteveJustin1963/TE-2-20-LED-DICE/blob/master/lay.png)
