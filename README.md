@@ -1,4 +1,4 @@
-# TE-2-20-LED-DICE  PROJECT SIX 
+# TE-2-LED-DICE  PROJECT SIX 
 
 ![](https://github.com/SteveJustin1963/TE-2-20-LED-DICE/blob/master/cct.png)
 
